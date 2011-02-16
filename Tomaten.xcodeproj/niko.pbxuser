@@ -1,0 +1,250 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 100}";
+		};
+	};
+	172754BD107597F200D0347B /* Unit Tests */ = {
+		activeExec = 0;
+	};
+	17D55CD81076A1A2008207BD /* run_suite.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {728, 351}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 84}";
+		};
+	};
+	230D277B12FD959A0012B255 /* tomaten.icns */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 58}, {1051, 820}}";
+		};
+	};
+	2327F5B612FD719B00095776 /* Tomaten */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Tomaten;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2327F5BA12FD71B900095776 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2327F5BB12FD71B900095776 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2327F5C112FD71EE00095776 /* Pomodoro.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3239, 1079}}";
+			sepNavSelRange = "{1511, 0}";
+			sepNavVisRange = "{0, 1636}";
+		};
+	};
+	2327F5D612FD737300095776 /* TomatenController.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {728, 2262}}";
+			sepNavSelRange = "{3024, 0}";
+			sepNavVisRange = "{504, 764}";
+			sepNavWindowFrame = "{{389, 59}, {1051, 819}}";
+		};
+	};
+	23983C46130C039E00138CF9 /* README.rtf */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {742, 366}}";
+			sepNavSelRange = "{735, 0}";
+			sepNavVisRect = "{{0, 0}, {742, 366}}";
+			sepNavWindowFrame = "{{15, 56}, {1051, 822}}";
+		};
+	};
+	23983C49130C11D600138CF9 /* LICENSE.rtf */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {742, 343}}";
+			sepNavSelRange = "{1097, 0}";
+			sepNavVisRect = "{{0, 0}, {742, 343}}";
+		};
+	};
+	23983C59130C127700138CF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23983C46130C039E00138CF9 /* README.rtf */;
+		name = "README.rtf: 9";
+		rLen = 0;
+		rLoc = 735;
+		rType = 0;
+		vrLen = 735;
+		vrLoc = 0;
+	};
+	23983C5A130C127700138CF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 17D55CD81076A1A2008207BD /* run_suite.rb */;
+		name = "run_suite.rb: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 84;
+		vrLoc = 0;
+	};
+	23983C6E130C1FCC00138CF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23983C49130C11D600138CF9 /* LICENSE.rtf */;
+		name = "LICENSE.rtf: 5";
+		rLen = 0;
+		rLoc = 1097;
+		rType = 0;
+		vrLen = 1097;
+		vrLoc = 0;
+	};
+	23983CA5130C29A600138CF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2327F5D612FD737300095776 /* TomatenController.rb */;
+		name = "TomatenController.rb: 42";
+		rLen = 0;
+		rLoc = 734;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 716;
+	};
+	23983CAB130C2AAD00138CF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2327F5D612FD737300095776 /* TomatenController.rb */;
+		name = "TomatenController.rb: 169";
+		rLen = 0;
+		rLoc = 3024;
+		rType = 0;
+		vrLen = 764;
+		vrLoc = 504;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 2327F5B612FD719B00095776 /* Tomaten */;
+		activeTarget = 8D1107260486CEB800E47090 /* Tomaten */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Tomaten */,
+		);
+		codeSenseManager = 2327F5BB12FD71B900095776 /* Code sense */;
+		executables = (
+			2327F5B612FD719B00095776 /* Tomaten */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					624,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 319553906;
+			PBXWorkspaceStateSaveDate = 319553906;
+		};
+		perUserProjectItems = {
+			23983C59130C127700138CF9 /* PBXTextBookmark */ = 23983C59130C127700138CF9 /* PBXTextBookmark */;
+			23983C5A130C127700138CF9 /* PBXTextBookmark */ = 23983C5A130C127700138CF9 /* PBXTextBookmark */;
+			23983C6E130C1FCC00138CF9 /* PBXTextBookmark */ = 23983C6E130C1FCC00138CF9 /* PBXTextBookmark */;
+			23983CA5130C29A600138CF9 /* PBXTextBookmark */ = 23983CA5130C29A600138CF9 /* PBXTextBookmark */;
+			23983CAB130C2AAD00138CF9 /* PBXTextBookmark */ = 23983CAB130C2AAD00138CF9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2327F5BA12FD71B900095776 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 242}";
+		};
+	};
+	4D1A51A110A4FF5D0046A98A /* Compile */ = {
+		activeExec = 0;
+	};
+	4D1A51A510A4FF640046A98A /* Embed */ = {
+		activeExec = 0;
+	};
+	4DE339F60D74FCDD00ADB6EE /* rb_main.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {775, 312}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 547}";
+		};
+	};
+	8D1107260486CEB800E47090 /* Tomaten */ = {
+		activeExec = 0;
+		executables = (
+			2327F5B612FD719B00095776 /* Tomaten */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 58}, {1051, 820}}";
+		};
+	};
+}
